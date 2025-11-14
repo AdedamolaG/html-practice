@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+  img{
+    border-radius: 100%;
+    background-color: aliceblue;
+  }
+
+.card{
+    display: flex; 
+    width: 600px; 
+    justify-content: space-between;
+     border: 3px solid brown; 
+     padding: 50px;
+     background-color: blanchedalmond;
+}
+
+.card-right{
+    padding-left: 30px;
+    background-color: brown;
+    color: aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}

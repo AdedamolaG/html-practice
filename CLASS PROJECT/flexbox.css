@@ -1,0 +1,9 @@
+h1,h2{
+    text-align: center;
+}
+
+.Item p{
+    text-align: center;
+    border: 5px solid blue;
+   
+}

@@ -1,0 +1,24 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 40px;
+    background-color: azure;
+    text-align: center;
+
+}
+
+h1{
+    color:blue
+}
+
+.section{
+    margin: 40px;
+}
+
+.btn-transition{
+    background-color: beige;
+    color: rgb(2, 46, 31);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color ;
+
+}

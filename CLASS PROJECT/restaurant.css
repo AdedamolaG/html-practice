@@ -1,0 +1,26 @@
+h1{
+    color: rebeccapurple;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.body{
+    background-color: beige;
+}
+
+h3{
+    text-align: center;
+
+}
+
+.nav{
+    justify-content: center;
+    padding: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.topic{
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

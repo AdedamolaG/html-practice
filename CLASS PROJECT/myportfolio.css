@@ -1,0 +1,48 @@
+.form{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#contact{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#skills{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#project{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blanchedalmond;
+}
+
+#about{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+img{
+    border-radius: 100%;
+}
+
+.pro{
+    padding: 30px;
+    background-color: blanchedalmond;
+}
+
+.con{
+    padding: 30px;
+    background-color: aqua;
+}
